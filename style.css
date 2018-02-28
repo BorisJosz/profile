@@ -1,0 +1,114 @@
+h1 {
+  color: #DD5454;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 26px;
+}
+
+h2 {
+  color: #7C7D7C;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+h3 {
+  color: #7C7D7C;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 200;
+  font-size: 18px;
+}
+
+ul,
+a {
+  color: #CBCCCB;
+  text-decoration: none;
+}
+
+head,
+body {
+  background-image: url("images/lowpolybg.png");
+  background-size: 155%;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.card-white {
+  background-color: white;
+  width: 500px;
+  padding: 20px;
+  border-radius: 7px;
+  box-shadow: 1px 2px 3px rgba(0,0,0,0.2);
+  margin: 10px auto;
+}
+
+.profile-picture {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 3px solid #CBCCCB;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.img-align {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn-red {
+  background-color: #DD5454;
+  color: white;
+  border-radius: 3px;
+  padding: 10px 10px;
+  font-family: 'Arial', sans-serif;
+  font-size: 15px;
+}
+
+.btn-red:hover {
+  color: white;
+  background-color: #C62828;
+}
+
+.list-inline li {
+  display: inline-block;
+  padding: 20px;
+}
+
+.icon-sizelarge {
+  font-size: 30px;
+}
+
+.icon-sizesmall {
+  font-size: 23px;
+}
+
+.text-standard {
+  color: #7C7D7C;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 80;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.text-description {
+  color: #7C7D7C;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 50;
+  font-size: 14px;
+  line-height: 1;
+  margin: 10px;
+}
+
+.indent-10 {
+  margin: 10px;
+}
